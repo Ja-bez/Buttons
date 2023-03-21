@@ -1,0 +1,89 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: black;
+}
+.buttons{
+    border: 5px solid white;
+    display: inline-block;
+    background-color: white;
+    margin: 20px;
+    cursor: pointer;
+
+}
+.buttons p{
+    font-size: 8px;
+    padding: 6px;
+}
+
+.uber #uber{
+    background-color: black;
+    color: white;
+    font-size: 8px;
+    padding: 8px;
+    
+}
+
+.amazon #amazon {
+    background-color: rgb(255, 216, 20);
+    border-radius: 20px;
+    border: none;
+}
+
+.github #github{
+    background-color: rgb(46, 164, 79);
+    color: white;
+    border-radius: 5px;
+    border: none;
+}
+
+.bootstrap #get-started{
+    background-color: rgb(121, 82, 179);
+    color: white;
+    border-radius: 5px;
+    border: none;
+}
+.bootstrap #download{
+    background-color: white;
+    color: rgb(108, 117, 125);
+    border: 1px solid;
+    border-color: rgb(108, 117, 125);
+    border-radius: 5px;
+}
+
+.linkedin #apply{
+    background-color: rgb(10, 102, 194);
+    border-radius: 20px;
+    color: white;
+    border: none;
+}
+.linkedin #save {
+    border-radius: 20px;
+    color: rgb(10, 102, 194);
+    border: 1px solid;
+}
+
+.amazon-ui {
+    background-color: white;
+}
+.stock #in-stock{
+    color: rgb(0, 118, 0);
+}
+.amazon-ui #add-cart{
+    background-color: rgb(255, 216, 20);
+    border-radius: 20px;
+    border: none;
+    margin: 10px;
+    margin-left: 0%;
+    padding: 8px;
+}
+.amazon-ui #buy-now{
+    background-color: rgb(255, 164, 28);
+    border-radius: 20px;
+    border: none;
+    margin: 10px;
+    margin-left: 0%;
+    padding: 8px;
+}
